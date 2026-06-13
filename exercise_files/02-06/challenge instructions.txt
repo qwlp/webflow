@@ -1,0 +1,35 @@
+Photo/Text and Footer Challenge
+
+A. Footer
+
+Layout graphic is available in the exercise files folder, A-footer layout.jpg
+
+Using the text below, create a footer for the website. 
+* Footer background color: indigo
+* Footer padding: 5rem top and bottom
+* Footer text color: white
+* Turn the footer into a component, as we did for the navigation earlier in the course.
+* Don't forget to add a container!
+
+Footer text:
+This is a fictitious company created by LinkedIn Corporation, or its affiliates, solely for the creation and development of educational training materials. Any resemblance to real products or services is purely coincidental. Information provided about the products or services is also fictitious and should not be construed as representative of actual products or services on the market in a similar product or service category.
+
+
+
+B. Photos and Text
+
+Layout graphic is available in the exercise files folder: B-photo and text layout.jpg
+
+Using the layout graphic above as your guide, and the other images in the exercise files folder, create this layout as a section inside of your Webflow site.
+* Background color: pale indigo
+* Section padding: 5rem top and bottom
+* Text size: 1.8rem
+* Use grid for layout, gap of 2rem between rows and columns
+
+Next to Big Ben:
+The West End neighborhood has something for everyone—from theater to dining to historic sights.
+
+Next to Cafe:
+And the not-to-miss Rooftop Cafe is a great place for travelers and locals to engage over drinks, food, and good conversation.
+
+
